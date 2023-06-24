@@ -48,6 +48,7 @@ book:
   # put all chapters here and comment if there are some problems
   - index.qmd
   - instructions.qmd
+  - prova.qmd
   appendices:
   - webexercises.qmd
   - references.qmd
